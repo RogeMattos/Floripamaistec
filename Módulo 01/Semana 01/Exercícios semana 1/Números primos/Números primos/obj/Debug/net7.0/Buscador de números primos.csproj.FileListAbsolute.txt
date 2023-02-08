@@ -1,0 +1,15 @@
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.AssemblyInfo.cs
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net7.0\Buscador de números primos.exe
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net7.0\Buscador de números primos.deps.json
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net7.0\Buscador de números primos.runtimeconfig.json
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net7.0\Buscador de números primos.dll
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net7.0\Buscador de números primos.pdb
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.dll
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\refint\Buscador de números primos.dll
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.pdb
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\Buscador de números primos.genruntimeconfig.cache
+C:\Users\rogerio.mattos\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net7.0\ref\Buscador de números primos.dll
