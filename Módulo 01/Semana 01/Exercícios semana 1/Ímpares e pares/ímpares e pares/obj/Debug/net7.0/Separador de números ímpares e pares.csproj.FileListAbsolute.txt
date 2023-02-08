@@ -1,0 +1,15 @@
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\bin\Debug\net7.0\Separador de números ímpares e pares.exe
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\bin\Debug\net7.0\Separador de números ímpares e pares.deps.json
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\bin\Debug\net7.0\Separador de números ímpares e pares.runtimeconfig.json
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\bin\Debug\net7.0\Separador de números ímpares e pares.dll
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\bin\Debug\net7.0\Separador de números ímpares e pares.pdb
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.AssemblyInfo.cs
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.dll
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\refint\Separador de números ímpares e pares.dll
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.pdb
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\Separador de números ímpares e pares.genruntimeconfig.cache
+C:\Users\rogerio.mattos\source\repos\Separador de números ímpares e pares\Separador de números ímpares e pares\obj\Debug\net7.0\ref\Separador de números ímpares e pares.dll
