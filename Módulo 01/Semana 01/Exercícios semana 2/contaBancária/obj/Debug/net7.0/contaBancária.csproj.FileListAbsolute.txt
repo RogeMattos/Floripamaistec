@@ -1,5 +1,0 @@
-C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.csproj.AssemblyReference.cache
-C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.AssemblyInfoInputs.cache
-C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.AssemblyInfo.cs
-C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.csproj.CoreCompileInputs.cache
