@@ -1,6 +1,6 @@
 ﻿using Exercício_1;
 
-Produto produto1 = new Produto("Calculadora", 5.75, 199);
+Produto produto1 = new Produto("Calculadora", 6.75, 299);
 
 Produto produto2 = new Produto();
 
