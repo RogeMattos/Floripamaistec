@@ -1,0 +1,15 @@
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\bin\Debug\net7.0\Construtores.exe
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\bin\Debug\net7.0\Construtores.deps.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\bin\Debug\net7.0\Construtores.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\bin\Debug\net7.0\Construtores.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\refint\Construtores.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\Construtores\obj\Debug\net7.0\ref\Construtores.dll
