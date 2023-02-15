@@ -1,0 +1,15 @@
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\bin\Debug\net7.0\Exercício_2.exe
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\bin\Debug\net7.0\Exercício_2.deps.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\bin\Debug\net7.0\Exercício_2.runtimeconfig.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\bin\Debug\net7.0\Exercício_2.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\bin\Debug\net7.0\Exercício_2.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.AssemblyInfo.cs
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\refint\Exercício_2.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\Exercício_2.genruntimeconfig.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_2\obj\Debug\net7.0\ref\Exercício_2.dll
