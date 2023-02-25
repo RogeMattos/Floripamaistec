@@ -1,0 +1,30 @@
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.AssemblyInfo.cs
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\bin\Debug\net7.0\contaBancária.exe
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\bin\Debug\net7.0\contaBancária.deps.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\bin\Debug\net7.0\contaBancária.runtimeconfig.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\bin\Debug\net7.0\contaBancária.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\bin\Debug\net7.0\contaBancária.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\refint\contaBancária.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\contaBancária.genruntimeconfig.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 01\Exercícios semana 2\contaBancária\obj\Debug\net7.0\ref\contaBancária.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.AssemblyInfo.cs
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\refint\contaBancária.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\bin\Debug\net7.0\contaBancária.exe
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\bin\Debug\net7.0\contaBancária.deps.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\bin\Debug\net7.0\contaBancária.runtimeconfig.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\bin\Debug\net7.0\contaBancária.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\bin\Debug\net7.0\contaBancária.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\contaBancária.genruntimeconfig.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\semana 03 - exercício 3-4-5-6\contaBancária\obj\Debug\net7.0\ref\contaBancária.dll
