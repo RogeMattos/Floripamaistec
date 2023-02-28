@@ -1,0 +1,15 @@
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\bin\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.exe
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\bin\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.deps.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\bin\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.runtimeconfig.json
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\bin\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\bin\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.AssemblyInfo.cs
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\refint\[M01S04]Ex 1-2-3-4-5-6.dll
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.pdb
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\[M01S04]Ex 1-2-3-4-5-6.genruntimeconfig.cache
+C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 04 - exercicio 1-2-3-4-5-6\[M01S04]Ex 1-2-3-4-5-6\obj\Debug\net7.0\ref\[M01S04]Ex 1-2-3-4-5-6.dll
