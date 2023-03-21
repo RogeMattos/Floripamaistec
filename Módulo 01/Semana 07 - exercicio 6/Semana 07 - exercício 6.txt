@@ -1,0 +1,5 @@
+
+semana 07 - exercício 6
+
+select * from aluno
+where idade > 21 and nome_aluno like '%silva%
