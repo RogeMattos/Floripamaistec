@@ -1,3 +1,0 @@
---Semana 07 exercício 05
-
-select avg(idade) from aluno

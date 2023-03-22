@@ -1,0 +1,5 @@
+semana 07 - exercício 5
+
+update aluno
+set endereco = 'Av. norte, 350, Recife-PE'
+where id = 2
