@@ -1,3 +1,3 @@
 
 
-alter table Professor add Data_De_Nascimento
+alter table professor add data_de_nascimento DateTime not null
