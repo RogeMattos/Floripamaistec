@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = contaBancária
-build_property.ProjectDir = C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 02\Exercícios semana 2\contaBancária\
+build_property.RootNamespace = Exercício_1
+build_property.ProjectDir = C:\Users\rogerio.mattos\Desktop\Curso Fullstack\Módulos do Curso\GitHub\Floripamaistec\Módulo 01\Semana 03\Exercício_1\
