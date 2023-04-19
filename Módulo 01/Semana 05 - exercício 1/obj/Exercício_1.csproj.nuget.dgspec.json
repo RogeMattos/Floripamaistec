@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 2\\Exercício_2.csproj": {}
+    "C:\\Users\\rogerio.mattos\\Desktop\\Arquivos de estudo\\Exercício_1\\Exercício_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 2\\Exercício_2.csproj": {
+    "C:\\Users\\rogerio.mattos\\Desktop\\Arquivos de estudo\\Exercício_1\\Exercício_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 2\\Exercício_2.csproj",
-        "projectName": "Exercício_2",
-        "projectPath": "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 2\\Exercício_2.csproj",
+        "projectUniqueName": "C:\\Users\\rogerio.mattos\\Desktop\\Arquivos de estudo\\Exercício_1\\Exercício_1.csproj",
+        "projectName": "Exercício_1",
+        "projectPath": "C:\\Users\\rogerio.mattos\\Desktop\\Arquivos de estudo\\Exercício_1\\Exercício_1.csproj",
         "packagesPath": "C:\\Users\\rogerio.mattos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 2\\obj\\",
+        "outputPath": "C:\\Users\\rogerio.mattos\\Desktop\\Arquivos de estudo\\Exercício_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
