@@ -1,0 +1,13 @@
+Entidades:
+Filme
+Atores
+Clientes
+
+Atributos:
+Título
+Identificador
+Nome
+Data de nascimento
+Sobrenome
+Telefone
+Endereço
