@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\rogem\\OneDrive\\Área de Trabalho\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\rogem\\OneDrive\\Área de Trabalho\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\rogem\\OneDrive\\Área de Trabalho\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\rogerio.mattos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rogerio.mattos\\Desktop\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\obj\\",
+        "projectPath": "C:\\Users\\rogem\\OneDrive\\Área de Trabalho\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\rogem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rogem\\OneDrive\\Área de Trabalho\\Curso Fullstack\\Módulos do Curso\\GitHub\\Floripamaistec\\Módulo 01\\Semana 05 - exercício 4 -5 - 6\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rogerio.mattos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rogem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
