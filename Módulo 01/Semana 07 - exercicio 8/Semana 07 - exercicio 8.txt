@@ -1,0 +1,3 @@
+-- Semana 07 exercicio 8
+
+ALTER TABLE pedidos ALTER COLUMN datapedido string

@@ -1,0 +1,15 @@
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\bin\Debug\net7.0\Exercício_1.exe
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\bin\Debug\net7.0\Exercício_1.deps.json
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\bin\Debug\net7.0\Exercício_1.runtimeconfig.json
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\bin\Debug\net7.0\Exercício_1.dll
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\bin\Debug\net7.0\Exercício_1.pdb
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.csproj.AssemblyReference.cache
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.AssemblyInfoInputs.cache
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.AssemblyInfo.cs
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.dll
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\refint\Exercício_1.dll
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.pdb
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\Exercício_1.genruntimeconfig.cache
+C:\Users\rogerio.mattos\Desktop\Arquivos de estudo\Exercício_1\obj\Debug\net7.0\ref\Exercício_1.dll
