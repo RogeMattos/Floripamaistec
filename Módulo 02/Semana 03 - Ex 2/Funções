@@ -1,0 +1,33 @@
+No contexto da programação, a função se trata de um bloco de código reutilizável projetado para executar uma função específica. 
+Esse recurso permite que você agrupe um conjunto de instruções em um único bloco de código nomeado. Essa função pode ser chamada
+ (invocada) em vários pontos do programa, permitindo que você evite repetir o mesmo código várias vezes.
+
+ Exemplos de funções:
+
+ 1) Função para calcular o IMC:
+
+ function CalculoIMC (peso, altura){
+    var resultado = peso / (altura * altura)
+    return resultado.toFixed(0)
+}
+
+console.log("O seu IMC é: " + CalculoIMC(90, 1.87))
+
+
+2) Função calcular média:
+
+function calcularMedia(primeiraNota, segundaNota, terceiraNota) {
+    var resultado = (Number(primeiraNota) + Number(segundaNota) + Number(terceiraNota)) / 3
+    return resultado.toFixed(2)
+}
+
+console.log(calcularMedia(9,6,7))
+
+3) Função somar:
+
+function Somar(a, b) {
+    var resultado = a + b
+    return resultado
+}
+
+
