@@ -1,0 +1,59 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: cornflowerblue;
+    color: white;
+    font-family: Cambria, Arial ;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+
+}
+form div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    align-items: center;
+
+}
+
+form input, form button {
+    padding: 20px;
+    width: 300px;
+    border: 1px solid cornflowerblue;
+    border-radius: 30px;
+    align-items: center;
+}
+button{
+    background-color:cornflowerblue;
+    margin-left: 7%;
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    font-size: larger;
+    background-color: cornflowerblue;
+ 
+}
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+   
+}
+
+th,
+td {
+    background-color: cornflowerblue;
+    
+}
