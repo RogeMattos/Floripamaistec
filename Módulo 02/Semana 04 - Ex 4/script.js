@@ -1,0 +1,4 @@
+
+function cadastro(){
+    alert('ok');
+  }
