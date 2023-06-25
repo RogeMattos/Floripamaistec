@@ -1,0 +1,121 @@
+body, html {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: flex-start;
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+   
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    
+    padding: 0;
+    height: 100%;
+    background-color:white;
+    border-radius: 5px;
+    
+}
+
+
+header{
+
+    margin: unset;
+    background-color: yellow;
+    color: #fff;
+    width: 100%;
+    min-height: 20%;
+  
+    
+}
+
+main{
+    margin: unset;
+    display: flex;
+    flex-grow: 1;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+nav{
+    background-color: blue ;
+    min-width: 20%;
+    height: 100%;
+}
+.content{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(127, 255, 212, 0.151);
+    overflow-y: scroll;
+}
+
+.busca{
+    display: flex;
+    flex-direction: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+input{
+    all: unset;
+    background-color: antiquewhite;
+    background-blend-mode: color-dodge;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #00000054;
+    width: 90%;
+    text-align: end;
+}
+
+button{
+    width: 20%;
+    height: 20%;
+      
+}
+.listagem-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    flex-basis: 28%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #00000054;
+    width: 200px;
+    height: 300px;
+    background-color: #fff;
+    color: #0f1620;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    overflow: hidden;
+}
+
+.card_titulo{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 30%;
+    
+}
+.card_subtítulo{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 30%;
+}
