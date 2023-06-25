@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="Index.css" />
+  <title>Formulário</title>
+</head>
+
+<body>
+  <div class="container">
+    <div>
+      <h1>Login</h1>
+    </div>
+    <form onsubmit="validarLogin(event)">
+      <label for="email">Email:</label><br />
+      <input type="email" id="email" name="email" /><br />
+      <label for="pwd">Senha:</label><br />
+      <input type="password" id="pwd" name="pwd" /><br />
+      <input type="submit" value="Entrar" />
+    </form>
+
+    <div>
+      <button onclick="window.location.href='CriarConta.html'">
+        Criar Conta</button><br />
+      <button onclick="alert('Por favor, entre em contato com o suporte ao cliente para recuperar sua senha.')">
+        Esqueci a Senha
+      </button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

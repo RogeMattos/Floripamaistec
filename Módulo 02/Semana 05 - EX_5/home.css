@@ -1,0 +1,45 @@
+body, html {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: flex-start;
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+   
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    
+    padding: 0;
+    height: 100%;
+    background-color:white;
+    border-radius: 5px;
+    
+}
+
+
+header{
+
+    margin: unset;
+    background-color: yellow;
+    color: #fff;
+    width: 100%;
+    min-height: 20%;
+}
+
+main{
+    margin: unset;
+    display: flex;
+    flex-grow: 1;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+nav{
+    background-color: blue ;
+    min-width: 20%;
+    height: 100%;
+}
