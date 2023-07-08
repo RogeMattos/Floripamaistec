@@ -1,0 +1,21 @@
+
+ <app-header></app-header>
+
+ <div class="container mt-5">
+  <h1>Notification List</h1>
+  <ul class="list-group">
+    <li class="list-group-item" *ngFor="let notification of notificationList" [ngClass]="notification.isReadClass">
+      <h5 class="mb-1">{{ notification.title }}</h5>
+      <small>De: {{ notification.from }}</small>
+      <p class="mb-1">{{ notification.message }}</p>
+      <small>{{ notification.date }}</small>
+      <br>
+      <button (click)="marcarComoLido(notification)" class="btn btn-outline-primary">
+        <ng-container *ngIf="!notification.lido">{{ notification.buttonText }}</ng-container>
+        <ng-container *ngIf="notification.lido">Lido</ng-container>
+      </button>
+    </li>
+  </ul>
+</div>
+
+<app-footer></app-footer>
