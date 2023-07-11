@@ -1,0 +1,30 @@
+
+#form{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(67, 138, 138);
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 350px;
+    border-style: solid;
+    border-radius: 20px;
+
+    
+}
+p{
+    text-align: center;
+    font-size: x-large;
+}
+
+input{
+    width: 500px;
+    border-radius: 10px;
+}
+
+#avaliacao{
+    width: 100px;
+}
+
+button{
+    border-radius: 8px;
+}
