@@ -1,0 +1,38 @@
+
+ <app-header></app-header>
+
+ <div class="container mt-5">
+  <h1>Notification List</h1>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <h5 class="mb-1" [textContent]="notification_1.title"></h5>
+      <small>De: <span [textContent]="notification_1.from"></span></small>
+      <p class="mb-1" [textContent]="notification_1.message"></p>
+      <small [textContent]="notification_1.date"></small>
+    </li>
+  </ul>
+  
+ 
+  <ul class="list-group">
+    <li class="list-group-item">
+      <h5 class="mb-1" [textContent]="notification_2.title"></h5>
+      <small>De: <span [textContent]="notification_2.from"></span></small>
+      <p class="mb-1" [textContent]="notification_2.message"></p>
+      <small [textContent]="notification_2.date"></small>
+    </li>
+  </ul>
+
+  
+  <ul class="list-group">
+    <li class="list-group-item">
+      <h5 class="mb-1" [textContent]="notification_3.title"></h5>
+      <small>De: <span [textContent]="notification_3.from"></span></small>
+      <p class="mb-1" [textContent]="notification_3.message"></p>
+      <small [textContent]="notification_3.date"></small>
+    </li>
+  </ul>
+
+</div>
+
+
+<app-footer></app-footer>
