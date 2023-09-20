@@ -1,0 +1,7 @@
+Infraestrutura On-Premise (Local): è uma Infraestrutura montada, configurada e mantida dentro das insrtalações 
+de uma empresa ou organização, essa forma é escolhida devido as organizações possuirem servidores adequados para
+ esse fim, toda a parte de gerenciamento, segurança e manutenção é
+feita localmente pela própria organização ou empresa.
+
+Infraestrutura em Nuvem (Cloud): É uma infraestrutura de TI fornecida por provedores de serviços em nuvem, os dados 
+são hospedados em data centers do provedor e nesse caso toda a manutenção e segurança [é feita pelo provedor.]
