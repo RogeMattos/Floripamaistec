@@ -1,0 +1,51 @@
+Veja a seguir que companhias estão na vangarda de computação na nuvem:
+
+1.Amazon: IaaS como padrão
+A varejista online começou do nada em 2006 a oferecer infraestrutura ociosa como um serviço. Desde então,  não surgiu ainda no mercado nenhuma empresa com disposição para assumir o posto conquistado pela Amazon com configuração Elastic Compute Cloud (EC2).
+
+Com o tempo, a Amazon adicionou diversas ofertas de armazenamento em nuvem e está entrando no mercado de Plataforma como Serviço (PaaS). A empresa também está vendendo tablets (Kindle Fire) e desafiando Apple e Google na arena de música baseado na nuvem.
+
+2.Google: tudo na nuvem
+Como a Amazon, a Google não é um fornecedora tradicional de TI. Assim como o varejista online, a companhia de busca faz parte da nova geração de primeiras empresas de web e não tem medo de colocar no mercado ofertas como o Android, o navegador Chrome e um tablet ChromeOS-based. Todos seus aplicativos na nuvem baseados no Gmail, Google Docs e Google Spreadsheets desafiam diretamente o domínio da Microsoft no terreno de PCs. Como se isso não bastasse, a Google também é um player no mercado de PaaS com o Google App Engine
+
+3. Microsoft: visão de longo alcance
+A Microsoft pode chegar um pouco tarde para a festa, mas nunca subestime a sua  capacidade de acertar. As peças certamente não estão todas nos lugares certos, mas os especialistas dizem que a Microsoft tem provavelmente a abordagem mais ambiciosa para a computação em nuvem.
+
+Considere esses ativos: centros de estado da arte de dados e os produtos de virtualização Hyper-V, de PaaS (Windows Azure), de IaaS (Windows Azure Controlador Tecido) uma oferta de SaaS (SharePoint Online, Office 365, CRM Online ), mecanismo de busca (Bing), navegador (IE) e uma plataforma de desenvolvimento pré-existente (. NET). Com 90% do mundo no Outlook /Windows/Office, a Microsoft tem um potencial vasto para atrair lentamente clientes para nuvem.
+
+4. VMware: mais que virtualização
+A VMware passou de uma empresa de um só produto que mudou o mundo da computação corporativa para um fornecedor com uma estratégia de nuvem altamente ambiciosa baseada em sua tecnologia de virtualização vSphere.
+
+A VMware tem feito uma série de aquisições importantes e agora é um player forte no mercado PaaS, com uma variedade de ofertas, incluindo vFabric e CloudFoundry. Trata-se uma plataforma de PaaS aberta hospedada em www.CloudFoundry.org, onde os desenvolvedores podem contribuir com projetos de colaboração open source  Além disso, a VMware está fazendo alianças com empresas importantes, como o Google, Salesforce e Cisco.
+
+5. Salesforce.com: além de SaaS
+A Salesforce.com é líder indiscutível em software como serviço. A empresa traçou uma estratégia de nuvem agressiva, que inclui tanto o Software como serviço (SaaS) como PaaS. Seu portfólio inclui nuvem Force.com para desenvolvimento personalizado de aplicativos; Heroku, para aplicativos sociais e móveis, Database.com, Data.com Salesforce, o Salesforce Chatter, Salesforce Sales Cloud e o Service Cloud.
+
+O CEO da Salesforce Marc Benioff se vangloriou recentemente que sua companhia é a primeira de computação em nuvem a bater faturamento anual de 2,3 bilhões dólar. “E, nós estamos animado para anunciar que esperamos alcançar 3 bilhão dólares de receita durante o nosso ano de 2013″.
+
+6. Rackspace: líder do OpenStack
+Em 2010, a Rackspace e Nasa lançaram o OpenStack para fornecer uma nuvem privada altamente escalável. Desde então, mais de 100 organizações aderiram ao movimento OpenStack, oferecido sem fins lucrativos. OpenStack é basicamente um padrão aberto para construção de nuvens.
+
+A Rackspace acredita que os serviços básicos de IaaS (Infraestrutura como serviço)estão se tornando uma commodity e que os clientes estão dispostos a pagar por serviços adicionais, como o aplicativo de implantação, monitoramento e gestão do sistema de nuvem híbrida.
+
+7. Verizon: aquisições agressivas
+A Aquisição da Terremark por US$ 1,4 bilhão, no início deste ano, fez a Verizon saltar para o escalão superior de fornecedores de IaaS. O data centert era um alvo convidativo para a operadora de telefonia, tanto para seus centros de dados ao redor do mundo quanto por sua experiência de hospedagem gerenciada.
+
+Além de núcleo de IaaS e hospedagem, a Verizon oferece serviços de segurança e gerenciamento de identidade e de serviços. E está chegando a outros fornecedores para estabelecer alianças. Uma delas é uma parceria com a Cisco para oferecer serviços baseados em nuvem de comunicações unificadas. A empresa se juntou também com a IBM para entregar um serviço de armazenamento em nuvem. A oferta com  infraestrutura da IBM de backup e gerenciamento para ajudar a monitorar e proteger os dados armazenados.
+
+8. Cisco: comunicação unificada
+Você pode não achar que a Cisco é um dos maiores fornecedores de SaaS, mas é. O WebEx da Cisco é um grande player no mundo SaaS. Mas, é claro, a estratégia da companhia de cloud envolve muito mais do que serviços de conferência. Com uma participação dominante no mercado de rede, a Cisco também quer ser um forte player na nuvem.
+
+Sua estratégia é a Unified Computing System (UCS), plataforma blade que se integra perfeitamente servidor e funções de rede. A Cisco também está atacando nuvem por outro ângulo. A empresa tem parceria estratégica com formação uma joint venure com a EMC, VMware e Intel.
+
+9. AT&T: estratégia Synaptic
+Como Verizon, a AT & T tem todos os pré-requisitos para a construção de uma oferta de nuvem forte com centros de dados, relacionamentos de longo prazo com os clientes corporativos, uma rede mundial, experiência em serviços gerenciados e hospedagem.
+
+AT & T oferece IaaS (Synaptic Compute as a Service), armazenamento como serviço, e lançou recentemente oferta de PaaS, direcionada a profissionais. Como Verizon, a operadora também está tentando alavancar sua enorme base instalada de clientes de telefonia celular. Está oferecendo, por exemplo, um aplicativo de armazenamento baseados em nuvem para usuários de smartphones Android.
+
+10. Citrix: nuvem com padrão aberto
+A Citrix tem se expandido para fora de seu core business VDI (Virtual Desktop Infrastructure) e assumiu um papel de liderança no movimento de nuvem open source nuvem. É claro, a empresa já tinha uma participação no mundo nuvem com seu hipervisor Xen, usado pela Amazon para construir sua plataforma de nuvem.
+
+A Citrix também foi uma das primeiras entusiastas do projeto da Rackspace OpenStack. A empresa lançou o Projeto Olimpo, que combina OpenStack com a plataforma de virtualização XenServer. Em seguida, comprou Cloud.com, que havia desenvolvido uma fonte aberta para operar em nuvem.
+
+O ponto culminante de todos esses esforços é CloudStack 3, que incorpora elementos de Cloud.com e OpenStack em uma nuvem poderosa para construção e gestão de solução. A CloudStack 3 suporta todos os principais hipervisores, mas também adiciona uma versão otimizada do XenServer.
